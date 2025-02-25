@@ -42,7 +42,7 @@ const PortfolioPage = () => {
     <div className="portfolio-container">
       {/* Header */}
       <header className="portfolio-header">
-        <h1>John Doe</h1>
+        <h1>Aarya Bodas</h1>
         <p>Web Developer | Designer | Freelancer</p>
       </header>
       
@@ -56,7 +56,7 @@ const PortfolioPage = () => {
         </div>
         <div className="hours-worked">
           <h2>Hours Worked</h2>
-          <p>1500+ hours</p>
+          <p>150+ hours</p>
         </div>
       </section>
 
@@ -64,7 +64,7 @@ const PortfolioPage = () => {
       <section className="basic-details-section">
         <h2>Basic Details</h2>
         <div className="basic-details">
-          <p><strong>Name:</strong> Ayush Gulhane</p>
+          <p><strong>Name:</strong> Aarya Bodas</p>
           <p><strong>Date of Birth:</strong> January 1, 1990</p>
           <p><strong>Gender:</strong> Male</p>
           <p><strong>Summary:</strong> I am a passionate web developer with over 5 years of experience in creating dynamic and responsive websites. My expertise lies in front-end development with a keen eye for design and user experience. I am also proficient in back-end technologies, making me a versatile developer.</p>
